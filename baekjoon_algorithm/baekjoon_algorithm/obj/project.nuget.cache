@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFhMQ3pOML4BNeWyyy+8F6zJK/FjOc9+vJ292f0IRNXPZq2VOd8HOllQ02P57l5cQtIQu9O9N10uIhP+LHE8dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\soejd\\source\\repos\\baekjoon_algorithm\\baekjoon_algorithm\\baekjoon_algorithm\\baekjoon_algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\soejd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

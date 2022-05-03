@@ -1,0 +1,16 @@
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\baekjoon_algorithm.exe
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\baekjoon_algorithm.deps.json
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\baekjoon_algorithm.runtimeconfig.json
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\baekjoon_algorithm.runtimeconfig.dev.json
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\baekjoon_algorithm.dll
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\baekjoon_algorithm.pdb
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.csproj.AssemblyReference.cache
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.AssemblyInfoInputs.cache
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.AssemblyInfo.cs
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.csproj.CoreCompileInputs.cache
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.dll
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.pdb
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\obj\Debug\netcoreapp3.1\baekjoon_algorithm.genruntimeconfig.cache
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\soejd\source\repos\baekjoon_algorithm\baekjoon_algorithm\baekjoon_algorithm\bin\Debug\netcoreapp3.1\output.txt
